@@ -1,3 +1,4 @@
+
 ## 1 前言
 这是SpringBoot2.1源码分析专题的第一篇文章，主要讲如何来搭建我们的源码阅读调试环境。如果有经验的小伙伴们可以略过此篇文章。
 ## 2 环境安装要求
@@ -53,4 +54,6 @@ mvn clean install -DskipTests -Pfast
 
 
 **原创不易，帮忙Star一下呗**！
+
+注：该源码分析对应SpringBoot版本为**2.1.0.RELEASE**，本文对应的SpringBoot源码解析项目github地址：https://github.com/yuanmabiji/spring-boot-2.1.0.RELEASE
 

@@ -1,5 +1,6 @@
 微信公众号【**源码笔记**】，专注于Java后端系列框架的源码分析。每周持续推出SpringBoot,Spring,Mybatis,Dubbo,RocketMQ,Jdk 和Netty等Java后端系列框架的源码分析文章。
 
+* SpringBoot源码解析项目，项目里有超详细的中文注释：https://github.com/yuanmabiji/spring-boot-2.1.0.RELEASE
 
 
 **公众号**

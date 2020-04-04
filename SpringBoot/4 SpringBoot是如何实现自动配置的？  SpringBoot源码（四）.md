@@ -1,4 +1,4 @@
-**注：该源码分析对应SpringBoot版本为2.1.0.RELEASE**
+
 # 1 前言
 本篇接
 [助力SpringBoot自动配置的条件注解ConditionalOnXXX分析--SpringBoot源码（三）](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/SpringBoot/3%20%E5%8A%A9%E5%8A%9BSpringBoot%E8%87%AA%E5%8A%A8%E9%85%8D%E7%BD%AE%E7%9A%84%E6%9D%A1%E4%BB%B6%E6%B3%A8%E8%A7%A3%E5%8E%9F%E7%90%86%E6%8F%AD%E7%A7%98%20%20SpringBoot%E6%BA%90%E7%A0%81%EF%BC%88%E4%B8%89%EF%BC%89.md)
@@ -741,6 +741,9 @@ public static void register(BeanDefinitionRegistry registry, String... packageNa
 **原创不易，帮忙Star一下呗**！
 
 由于笔者水平有限，若文中有错误还请指出，谢谢。
+
+
+注：该源码分析对应SpringBoot版本为**2.1.0.RELEASE**，本文对应的SpringBoot源码解析项目github地址：https://github.com/yuanmabiji/spring-boot-2.1.0.RELEASE
 
 
 参考：

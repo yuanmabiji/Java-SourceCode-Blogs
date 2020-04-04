@@ -1,4 +1,4 @@
-**注：该源码分析对应SpringBoot版本为2.1.0.RELEASE**
+
 
 # 1 前言
 
@@ -871,6 +871,9 @@ private Object bindBean(ConfigurationPropertyName name, Bindable<?> target, // n
 **PS**：本来打算这篇开始分析SpringBoot的启动流程的，但是回过头去看看自动配置的相关源码，还有蛮多没有分析的，因此再来一波自动配置相关的源码先。
 
 由于笔者水平有限，若文中有错误还请指出，谢谢。
+
+注：该源码分析对应SpringBoot版本为**2.1.0.RELEASE**，本文对应的SpringBoot源码解析项目github地址：https://github.com/yuanmabiji/spring-boot-2.1.0.RELEASE
+
 
 
 参考：

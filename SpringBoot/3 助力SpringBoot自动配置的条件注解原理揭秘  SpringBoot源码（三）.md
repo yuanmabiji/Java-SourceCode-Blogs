@@ -1,4 +1,3 @@
-**注：该源码分析对应SpringBoot版本为2.1.0.RELEASE**
 # 1 前言
 本篇接
 [如何分析SpringBoot源码模块及结构？--SpringBoot源码（二）](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/SpringBoot/2%20%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90SpringBoot%E6%BA%90%E7%A0%81%E6%A8%A1%E5%9D%97%E5%8F%8A%E7%BB%93%E6%9E%84%EF%BC%9F%20%20SpringBoot%E6%BA%90%E7%A0%81%EF%BC%88%E4%BA%8C%EF%BC%89.md)
@@ -589,6 +588,10 @@ private ConditionOutcome isServletWebApplication(ConditionContext context) {
 <font color=Blue>SpringBoot新特性：SpringBoot是如何自动配置的？--SpringBoot源码（四）</font>
 
 **原创不易，帮忙Star一下呗**！
+
+注：该源码分析对应SpringBoot版本为**2.1.0.RELEASE**，本文对应的SpringBoot源码解析项目github地址：https://github.com/yuanmabiji/spring-boot-2.1.0.RELEASE
+
+
 
 参考：
 

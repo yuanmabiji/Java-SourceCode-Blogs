@@ -1,4 +1,4 @@
-**注：该源码分析对应SpringBoot版本为2.1.0.RELEASE**
+
 # 1 温故而知新
 本篇接 [SpringBoot内置的各种Starter是怎样构建的？  SpringBoot源码（六）](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/SpringBoot/6%20SpringBoot%E5%86%85%E7%BD%AE%E7%9A%84%E5%90%84%E7%A7%8DStarter%E6%98%AF%E6%80%8E%E6%A0%B7%E6%9E%84%E5%BB%BA%E7%9A%84%EF%BC%9F%20%20SpringBoot%E6%BA%90%E7%A0%81%EF%BC%88%E5%85%AD%EF%BC%89.md)
 
@@ -211,3 +211,5 @@ public ConfigurableApplicationContext run(String... args) {
 **原创不易，帮忙Star一下呗**！
 
 由于笔者水平有限，若文中有错误还请指出，谢谢。
+
+注：该源码分析对应SpringBoot版本为**2.1.0.RELEASE**，本文对应的SpringBoot源码解析项目github地址：https://github.com/yuanmabiji/spring-boot-2.1.0.RELEASE

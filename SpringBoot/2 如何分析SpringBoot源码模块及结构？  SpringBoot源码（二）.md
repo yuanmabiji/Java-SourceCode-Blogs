@@ -1,4 +1,3 @@
-注：该源码分析对应SpringBoot版本为**2.1.0.RELEASE**
 ## 1 前言
 本篇接
 [如何搭建自己的SpringBoot源码调试环境？--SpringBoot源码（一）](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/SpringBoot/1%20%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84SpringBoot%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95%E7%8E%AF%E5%A2%83%EF%BC%9F%20%20SpringBoot%E6%BA%90%E7%A0%81%EF%BC%88%E4%B8%80%EF%BC%89.md)。
@@ -96,10 +95,14 @@ SpringBoot的各模块之间的pom关系有点复杂，确实有点绕，如果�
 
 **原创不易，帮忙Star一下呗**！
 
+注：该源码分析对应SpringBoot版本为**2.1.0.RELEASE**，本文对应的SpringBoot源码解析项目github地址：https://github.com/yuanmabiji/spring-boot-2.1.0.RELEASE
+
+
 参考：
 
 1，https://github.com/spring-projects/spring-boot/tree/v2.1.0.RELEASE
 
 2，https://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#cli
+
 
 

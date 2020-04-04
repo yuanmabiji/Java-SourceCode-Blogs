@@ -52,9 +52,5 @@ mvn clean install -DskipTests -Pfast
 <font color=Blue>我们该如何去分析SpringBoot源码涉及模块及结构？--SpringBoot源码（二）</font>
 
 
-**原创不易，帮忙点个赞呗**！
+**原创不易，帮忙Star一下呗**！
 
----------------------------------------------------
-欢迎关注【源码笔记】公众号，一起学习交流。
-
-![](https://user-gold-cdn.xitu.io/2020/3/15/170dd9bb2b5b59de?w=142&h=135&f=png&s=39743)

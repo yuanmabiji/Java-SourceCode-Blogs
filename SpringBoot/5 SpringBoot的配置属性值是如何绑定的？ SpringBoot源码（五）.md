@@ -866,7 +866,7 @@ private Object bindBean(ConfigurationPropertyName name, Bindable<?> target, // n
 
 可见，重要的是上面的**第5步**。
 
-**原创不易，帮忙点个赞呗！**
+**原创不易，帮忙Star一下呗**！
 
 **PS**：本来打算这篇开始分析SpringBoot的启动流程的，但是回过头去看看自动配置的相关源码，还有蛮多没有分析的，因此再来一波自动配置相关的源码先。
 
@@ -876,8 +876,4 @@ private Object bindBean(ConfigurationPropertyName name, Bindable<?> target, // n
 参考：
 1,[JSR-303](https://www.jianshu.com/p/554533f88370)
 
----------------------------------------------------
-欢迎关注【源码笔记】公众号，一起学习交流。
-
-<img src="https://user-gold-cdn.xitu.io/2020/3/13/170d433d335f79e2?w=160&h=166&f=png&s=46879" width = "100" height = "100" align=left />
 

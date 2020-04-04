@@ -94,7 +94,7 @@ SpringBoot的各模块之间的pom关系有点复杂，确实有点绕，如果�
 <font color=Blue>SpringBoot自动配置的相关原理搞起来</font>
 
 
-**原创不易，帮忙点个赞呗！**
+**原创不易，帮忙Star一下呗**！
 
 参考：
 
@@ -102,8 +102,4 @@ SpringBoot的各模块之间的pom关系有点复杂，确实有点绕，如果�
 
 2，https://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/#cli
 
----------------------------------------------------
-欢迎关注【源码笔记】公众号，一起学习交流。
-
-<img src="https://user-gold-cdn.xitu.io/2020/3/13/170d433d335f79e2?w=160&h=166&f=png&s=46879" width = "100" height = "100" align=left />
 

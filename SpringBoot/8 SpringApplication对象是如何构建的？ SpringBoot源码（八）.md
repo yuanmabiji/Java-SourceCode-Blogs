@@ -426,11 +426,6 @@ private <T> List<T> createSpringFactoriesInstances(Class<T> type,
 
 
 
-**点赞和转发是对笔者最大的激励哦！**
+**原创不易，帮忙Star一下呗**！
 
 由于笔者水平有限，若文中有错误还请指出，谢谢。
-
----------------------------------------------------
-
-公众号【源码笔记】，专注于Java后端系列框架的源码分析。
-![](https://user-gold-cdn.xitu.io/2020/3/15/170dd9bb2b5b59de?w=142&h=135&f=png&s=39743)

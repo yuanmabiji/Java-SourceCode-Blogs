@@ -738,7 +738,7 @@ public static void register(BeanDefinitionRegistry registry, String... packageNa
 下节预告：
 <font color=Blue>SpringBoot的启动流程是怎样的？--SpringBoot源码（五）</font>
 
-**原创不易，帮忙点个赞呗！**
+**原创不易，帮忙Star一下呗**！
 
 由于笔者水平有限，若文中有错误还请指出，谢谢。
 
@@ -747,7 +747,4 @@ public static void register(BeanDefinitionRegistry registry, String... packageNa
 
 1，[@AutoConfigurationPackage注解](https://blog.csdn.net/ttyy1112/article/details/101284541)
 
----------------------------------------------------
-欢迎关注【源码笔记】公众号，一起学习交流。
 
-<img src="https://user-gold-cdn.xitu.io/2020/3/13/170d433d335f79e2?w=160&h=166&f=png&s=46879" width = "100" height = "100" align=left />

@@ -588,7 +588,7 @@ private ConditionOutcome isServletWebApplication(ConditionContext context) {
 
 <font color=Blue>SpringBoot新特性：SpringBoot是如何自动配置的？--SpringBoot源码（四）</font>
 
-**原创不易，帮忙点个赞呗！**
+**原创不易，帮忙Star一下呗**！
 
 参考：
 
@@ -598,7 +598,4 @@ private ConditionOutcome isServletWebApplication(ConditionContext context) {
 
 3，[spring boot 系列之六：深入理解spring boot的自动配置](https://www.cnblogs.com/sam-uncle/p/9111281.html)
 
----------------------------------------------------
-欢迎关注【源码笔记】公众号，一起学习交流。
 
-<img src="https://user-gold-cdn.xitu.io/2020/3/13/170d433d335f79e2?w=160&h=166&f=png&s=46879" width = "100" height = "100" align=left />

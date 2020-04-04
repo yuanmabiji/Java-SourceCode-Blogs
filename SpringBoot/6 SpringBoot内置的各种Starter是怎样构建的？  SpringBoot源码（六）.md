@@ -1,6 +1,6 @@
 **注：该源码分析对应SpringBoot版本为2.1.0.RELEASE**
 # 1 温故而知新
-本篇接 [外部配置属性值是如何被绑定到XxxProperties类属性上的？--SpringBoot源码（五）](https://juejin.im/post/5e689b49e51d4527143e5e2f)
+本篇接 [外部配置属性值是如何被绑定到XxxProperties类属性上的？--SpringBoot源码（五）](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/SpringBoot/5%20SpringBoot%E7%9A%84%E9%85%8D%E7%BD%AE%E5%B1%9E%E6%80%A7%E5%80%BC%E6%98%AF%E5%A6%82%E4%BD%95%E7%BB%91%E5%AE%9A%E7%9A%84%EF%BC%9F%20SpringBoot%E6%BA%90%E7%A0%81%EF%BC%88%E4%BA%94%EF%BC%89.md)
 
 温故而知新，我们来简单回顾一下上篇的内容，上一篇我们分析了SpringBoot**外部配置属性值是如何被绑定到XxxProperties类属性上**的相关源码，现将外部属性绑定的重要步骤总结如下：
 1. 首先是`@EnableConfigurationProperties`注解`import`了`EnableConfigurationPropertiesImportSelector`后置处理器；

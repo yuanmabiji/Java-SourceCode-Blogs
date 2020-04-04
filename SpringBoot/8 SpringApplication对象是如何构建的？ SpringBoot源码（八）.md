@@ -1,6 +1,6 @@
 **注：该源码分析对应SpringBoot版本为2.1.0.RELEASE**
 
-本篇接 [SpringBoot的启动流程是怎样的？SpringBoot源码（七）](https://juejin.im/post/5e771657f265da574c569be1)
+本篇接 [SpringBoot的启动流程是怎样的？SpringBoot源码（七）](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/SpringBoot/7%20SpringBoot%E7%9A%84%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%EF%BC%9FSpringBoot%E6%BA%90%E7%A0%81%EF%BC%88%E4%B8%83%EF%BC%89.md)
 
 # 1 温故而知新
 

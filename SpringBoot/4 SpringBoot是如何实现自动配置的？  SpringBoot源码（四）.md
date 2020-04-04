@@ -1,7 +1,7 @@
 **注：该源码分析对应SpringBoot版本为2.1.0.RELEASE**
 # 1 前言
 本篇接
-[助力SpringBoot自动配置的条件注解ConditionalOnXXX分析--SpringBoot源码（三）](https://juejin.im/post/5e591f6ef265da576b566951)
+[助力SpringBoot自动配置的条件注解ConditionalOnXXX分析--SpringBoot源码（三）](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/SpringBoot/3%20%E5%8A%A9%E5%8A%9BSpringBoot%E8%87%AA%E5%8A%A8%E9%85%8D%E7%BD%AE%E7%9A%84%E6%9D%A1%E4%BB%B6%E6%B3%A8%E8%A7%A3%E5%8E%9F%E7%90%86%E6%8F%AD%E7%A7%98%20%20SpringBoot%E6%BA%90%E7%A0%81%EF%BC%88%E4%B8%89%EF%BC%89.md)
 
 温故而知新，我们来简单回顾一下上篇的内容，上一篇我们分析了SpringBoot的条件注解@ConditionalOnXxx的相关源码，现挑重点总结如下：
 1. SpringBoot的所有`@ConditionalOnXxx`的条件类`OnXxxCondition`都是继承于`SpringBootCondition`基类，而`SpringBootCondition`又实现了`Condition`接口。

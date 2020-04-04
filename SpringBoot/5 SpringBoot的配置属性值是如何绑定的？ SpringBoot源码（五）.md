@@ -2,7 +2,7 @@
 
 # 1 前言
 
-本篇接 [SpringBoot是如何实现自动配置的？--SpringBoot源码（四）](https://juejin.im/post/5e5cc6c76fb9a07cb96af312)
+本篇接 [SpringBoot是如何实现自动配置的？--SpringBoot源码（四）](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/SpringBoot/4%20SpringBoot%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E9%85%8D%E7%BD%AE%E7%9A%84%EF%BC%9F%20%20SpringBoot%E6%BA%90%E7%A0%81%EF%BC%88%E5%9B%9B%EF%BC%89.md)
 
 温故而知新，我们来简单回顾一下上篇的内容，上一篇我们分析了SpringBoot的自动配置的相关源码，自动配置相关源码主要有以下几个重要的步骤：
 

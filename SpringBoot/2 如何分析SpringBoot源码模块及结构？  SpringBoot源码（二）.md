@@ -1,7 +1,7 @@
 注：该源码分析对应SpringBoot版本为**2.1.0.RELEASE**
 ## 1 前言
 本篇接
-[如何搭建自己的SpringBoot源码调试环境？--SpringBoot源码（一）](https://juejin.im/post/5e51d18af265da576b566273)。
+[如何搭建自己的SpringBoot源码调试环境？--SpringBoot源码（一）](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/SpringBoot/1%20%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84SpringBoot%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95%E7%8E%AF%E5%A2%83%EF%BC%9F%20%20SpringBoot%E6%BA%90%E7%A0%81%EF%BC%88%E4%B8%80%EF%BC%89.md)。
 
 前面搭建好了自己本地的SpringBoot源码调试环境后，此时我们不要急着下手进入到具体的源码调试细节中，**刚开始阅读源码，此时我们一定要对项目结构等有一个整体的认识，然后再进行源码分析调试**。推荐阅读下笔者之前写的的[分析开源项目源码，我们该如何入手分析？](https://juejin.im/post/5e4d06b451882549670673c5)一文，干货满满哦。
 

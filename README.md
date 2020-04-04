@@ -1,4 +1,4 @@
-【**源码笔记**】专注于Java后端系列框架的源码分析。
+【**源码笔记**】专注于Java后端系列框架的源码分析。若觉得源码分析文章不错，欢迎Start哦。
 
 ================SpringBoot源码分析====================
 * SpringBoot源码分析专题：https://github.com/yuanmabiji/Java-SourceCode-Blogs/tree/master/SpringBoot

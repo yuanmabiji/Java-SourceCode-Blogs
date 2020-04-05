@@ -18,9 +18,9 @@
 
 **阅读本源码专题文章结合SpringBoot项目（带中文注释）调试效果会更佳哦**
 
-本源码专题文章对应的SpringBoot项目（带中文注释）：https://github.com/yuanmabiji/spring-boot-2.1.0.RELEASE
+* 本源码专题文章对应的SpringBoot项目（带中文注释）：https://github.com/yuanmabiji/spring-boot-2.1.0.RELEASE
 
 
-更多源码分析文章请跳转至：https://github.com/yuanmabiji/Java-SourceCode-Blogs
+* 更多源码分析文章请跳转至：https://github.com/yuanmabiji/Java-SourceCode-Blogs
 
 

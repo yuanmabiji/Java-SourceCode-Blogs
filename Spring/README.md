@@ -9,7 +9,7 @@
 2. [Spring是如何实现事件监听机制的？ Spring源码（二）](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/Spring/2%20Spring%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%BA%8B%E4%BB%B6%E7%9B%91%E5%90%AC%E6%9C%BA%E5%88%B6%E7%9A%84%EF%BC%9F%20%20Spring%E6%BA%90%E7%A0%81%EF%BC%88%E4%BA%8C%EF%BC%89.md)
 3. 持续更新中...
 
-更多源码分析文章请跳转至：https://github.com/yuanmabiji/Java-SourceCode-Blogs
+* 更多源码分析文章请跳转至：https://github.com/yuanmabiji/Java-SourceCode-Blogs
 
 
 

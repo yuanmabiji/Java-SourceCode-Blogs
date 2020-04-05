@@ -11,6 +11,8 @@
 8. [SpringApplication对象是如何构建的？ SpringBoot源码（八）](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/SpringBoot/8%20SpringApplication%E5%AF%B9%E8%B1%A1%E6%98%AF%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E7%9A%84%EF%BC%9F%20SpringBoot%E6%BA%90%E7%A0%81%EF%BC%88%E5%85%AB%EF%BC%89.md)
 9. 持续更新中...
 
+**阅读本源码专题文章结合SpringBoot项目（带中文注释）调试效果会更佳哦**
+
 本源码专题文章对应的SpringBoot项目（带中文注释）：https://github.com/yuanmabiji/spring-boot-2.1.0.RELEASE
 
 

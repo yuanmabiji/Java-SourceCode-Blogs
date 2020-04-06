@@ -43,16 +43,12 @@
 * Dubbo
 * Netty
 * RocketMQ
-* SpringCloud(Eureka,Ribbon,Hystrix,Zuul,Config,Feign...)
+* SpringCloud
 * Shiro
 * Tomcat
 * Seata
-* Canal
 * JUC
-* Kafka
-* Nacos
 * Zookeeper
-* Mycat
 * ......
 
 --------------------------------------------

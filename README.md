@@ -9,10 +9,10 @@
 2. [分析开源项目源码，我们该如何入手分析？（授人以渔）](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/%E5%88%86%E6%9E%90%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81%EF%BC%8C%E6%88%91%E4%BB%AC%E8%AF%A5%E5%A6%82%E4%BD%95%E5%85%A5%E6%89%8B%E5%88%86%E6%9E%90%EF%BC%9F%EF%BC%88%E6%8E%88%E4%BA%BA%E4%BB%A5%E6%B8%94%EF%BC%89.md)
 
 ================**JUC源码专题持续更新中...**====================
-1. [Java是如何实现Future模式的？万字详解！](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/JDK/1%20Java%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%B7%B1%E7%9A%84SPI%E6%9C%BA%E5%88%B6%E7%9A%84%EF%BC%9F%20JDK%E6%BA%90%E7%A0%81%EF%BC%88%E4%B8%80%EF%BC%89.md)
+1. [Java是如何实现Future模式的？万字详解！](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/JUC/Java%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0Future%E6%A8%A1%E5%BC%8F%E7%9A%84%EF%BC%9F%E4%B8%87%E5%AD%97%E8%AF%A6%E8%A7%A3%EF%BC%81.md)
 2. 持续更新中...
-* JDK源码分析专题：https://github.com/yuanmabiji/Java-SourceCode-Blogs/tree/master/JDK
-* JDK源码解析项目（带中文注释）：待提供
+* JUC源码分析专题：https://github.com/yuanmabiji/Java-SourceCode-Blogs/tree/master/JUC
+* JUC源码解析项目（带中文注释）：https://github.com/yuanmabiji/jdk1.8-sourcecode-blogs
 
 ================**SpringBoot源码专题持续更新中...**====================
 1. [如何搭建自己的SpringBoot源码调试环境？ SpringBoot源码（一）](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/SpringBoot/1%20%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84SpringBoot%E6%BA%90%E7%A0%81%E8%B0%83%E8%AF%95%E7%8E%AF%E5%A2%83%EF%BC%9F%20%20SpringBoot%E6%BA%90%E7%A0%81%EF%BC%88%E4%B8%80%EF%BC%89.md)
@@ -42,7 +42,7 @@
 1. [Java是如何实现自己的SPI机制的？ JDK源码（一）](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/JDK/1%20Java%E6%98%AF%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%B7%B1%E7%9A%84SPI%E6%9C%BA%E5%88%B6%E7%9A%84%EF%BC%9F%20JDK%E6%BA%90%E7%A0%81%EF%BC%88%E4%B8%80%EF%BC%89.md)
 2. 持续更新中...
 * JDK源码分析专题：https://github.com/yuanmabiji/Java-SourceCode-Blogs/tree/master/JDK
-* JDK源码解析项目（带中文注释）：待提供
+* JDK源码解析项目（带中文注释）：https://github.com/yuanmabiji/jdk1.8-sourcecode-blogs
 
 ================**TODO LIST**====================
 

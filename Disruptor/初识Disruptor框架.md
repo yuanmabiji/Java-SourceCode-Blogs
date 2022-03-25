@@ -19,9 +19,12 @@ Martin Fowler在自己网站上写了一篇LMAX架构的文章，LMAX是一种�
 5. 使用内存屏障
 6. 序号栅栏机制
 
+
+
 # 3 相关概念
 
-![img.png](images/img.png)
+![img.png](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/Disruptor/images/img.png?raw=true)
+
 
 **Disruptor**:是使用`Disruptor`框架的核心类，持有`RingBuffer`、消费者线程池、消费者集合`ConsumerRepository`和消费者异常处理器`ExceptionHandler`等引用；
 
@@ -131,7 +134,7 @@ public class LongEventMain
 输出结果：
 
 
-![img_1.png](images/img_1.png)
+![img_1.png](https://github.com/yuanmabiji/Java-SourceCode-Blogs/blob/master/Disruptor/images/img_1.png?raw=true)
 
 参考：https://lmax-exchange.github.io/disruptor/user-guide/index.html
 

@@ -695,7 +695,7 @@ public long waitFor(long sequence, Sequence cursorSequence, Sequence dependentSe
 
 ![](https://common-ymbj.oss-cn-beijing.aliyuncs.com/Disruptor/2/20220404185331.png)
 
-可以看到消费者的`WaitStrategy`等待策略有8种实现类，可以分为有锁和无锁两大类，然后每一种都有其适用的场合，没有最好的`WaitStrategy`等待策略，只有适合自己应用场景的等待策略。因为其源码不是很难，这里逐一分析。
+可以看到消费者的`WaitStrategy`等待策略有8种实现类，可以分为有锁和无锁两大类，然后每一种都有其适用的场合，没有最好的`WaitStrategy`等待策略，只有适合自己应用场景的等待策略。因为其源码不是很难，这里不再逐一分析。
 
 
 
